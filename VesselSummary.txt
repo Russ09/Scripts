@@ -1,0 +1,10 @@
+This segmentation contains 6 separate vessel structures
+Within this there are 689 branching points and 248 end points, composing 340 branches
+The tortuosity observed within the entire structure has a mean value of 0.017564 and a variance of 0.012057
+The Chord Length Ratio observed within the entire structure has a mean value of 0.943777 and a variance of 0.008143
+The Vessel Thickness observed within the entire structure has a mean value of 2.499035 and a variance of 1.635490
+--------------------------------------------------------------------------------------------------------------
+------------------------------------------VESSEL STATISTICS---------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
+Vessel #	nBranches	MeanTort	VarTort	MeanCLR	VarCLR	Volume	MeanThick	VarThick
+1  	  260  	  0.018516  	  0.015469  	  0.945411  	  0.007978  	  0.166605  	  2.452402  	  1.470456  	  2  	  5  	  0.008004  	  0.000162  	  0.951728  	  0.006087  	  0.002736  	  1.719069  	  0.532039  	  3  	  9  	  0.003826  	  0.000018  	  0.983410  	  0.000367  	  0.004079  	  2.224326  	  1.526784  	  4  	  15  	  0.009904  	  0.000096  	  0.945436  	  0.005000  	  0.012701  	  2.531413  	  2.081162  	  5  	  9  	  0.006556  	  0.000035  	  0.942821  	  0.004723  	  0.009138  	  2.147123  	  0.603727  	  6  	  42  	  0.020845  	  0.001800  	  0.923830  	  0.012856  	  0.029067  	  3.065021  	  2.619760  	  
